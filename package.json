@@ -1,0 +1,27 @@
+{
+  "name": "code-and-magick",
+  "version": "17.0.0",
+  "private": true,
+  "description": "Учебный проект «Код и Магия» от HTML Academy",
+  "repository": {
+    "type": "git"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "eslint": "6.3.0",
+    "eslint-config-htmlacademy": "0.5.2",
+    "gulp-live-server": "0.0.31",
+    "live-server": "^1.2.1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "eslint js/",
+    "start": "gulp start"
+  },
+  "engines": {
+    "node": "8.11"
+  }
+}
