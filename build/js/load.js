@@ -1,7 +1,7 @@
 'use strict';
 
 (function () {
-	var URL = 'https://js.dump.academy/code-and-magick/data';
+	var URL = 'https://javascript.pages.academy/code-and-magick/data';
 	var TIMEOUT_IN_MS = 10000;
 	var statusCode = {
 		OK: 200
